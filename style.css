@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    
+        background-color: rgb(138, 121, 99);
+        width: 100vw;
+        height: 30vh;
+    
+}
+main{
+    background-color: burlywood;
+    width: 100vw;
+    height: 100vh;
+}
+section{
+    background-color: yellowgreen;
+    width: 100vw;
+    height: 40vh;
+}
